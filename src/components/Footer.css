@@ -1,0 +1,32 @@
+.footer {
+    background-color: rgb(12, 6, 15);
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.social-links {
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+
+.social-link {
+    color: white;
+    margin-right: 16px;
+    font-size: 20px;
+    transition: 0.3s;
+    align-content: center;
+}
+
+.social-link:hover {
+    color: #f5f5f5;
+    align-content: center;
+}
+
+.copyright {
+    margin: 0;
+    font-size: 14px;
+}
